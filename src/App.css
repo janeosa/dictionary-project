@@ -1,3 +1,15 @@
+body {
+  background: linear-gradient(to top, #d4c5ff 0%, #8a8eff 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+a {
+  color: #fff;
+}
+.App {
+  max-width: 800px;
+  margin: 60px auto;
+}
 .App-header {
   margin: 50px 0;
 }

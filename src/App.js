@@ -12,6 +12,8 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <br />
+        <br />
         <footer className="text-center App-footer">
           <small>
             This project was coded by{" "}
