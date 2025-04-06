@@ -1,0 +1,9 @@
+.Photos img {
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.images-text {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
